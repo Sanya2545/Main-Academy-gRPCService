@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOLt7E3lZdFLaKFb1Y9auSqPKWjx8bhJUwYogVShEE+Z66eOUtiS2e22ApSZ6rAgbx/ht9IvpCAwKxUgUyTabw==",
+  "success": true,
+  "projectFilePath": "D:\\MainAcademy\\C# .NET\\LabWorks_2\\Module_6\\gRPC\\GrpcService1\\gRPCGreetingClient\\gRPCGreetingClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sasha\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\grpc.core.api\\2.49.0\\grpc.core.api.2.49.0.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\grpc.net.client\\2.49.0\\grpc.net.client.2.49.0.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\grpc.net.common\\2.49.0\\grpc.net.common.2.49.0.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\grpc.tools\\2.50.0\\grpc.tools.2.50.0.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
